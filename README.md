@@ -13,7 +13,7 @@ W.A. Franke Honors College
 
 #### Student Researcher, University of Arizona
 
--Science of Science project using different NLP models (2025)
+- Science of Science project using different NLP models (2025)
 - South African Women's Incarceration ethnography (2025)
 - Content Analysis of Firefighter Media Related to Cancer (2025)
 - Poverty Project Fellow (2025)
