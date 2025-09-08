@@ -1,6 +1,8 @@
+---
 layout: page
 title: Projects
 permalink: /projects/
+---
 
 ## Project Name
 **Description:** Brief explanation of what the project does
